@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+    <RootNamespace>ConsoleApp1</RootNamespace>
+    <AssemblyName>Console</AssemblyName>
+  </PropertyGroup>
+
+</Project>
